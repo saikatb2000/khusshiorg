@@ -1,0 +1,50 @@
+@media only screen and (max-width:1155px){
+
+#headline{
+   color: #001D6E;
+   margin: 0;
+   font-family: 'Sarina', cursive;
+   font-size: 20px;
+ }
+.top-first{
+   margin: 10px;
+   border-radius: 30%;
+   height: 100px;
+   width: 100px;
+ }
+.middle-first{
+ width: 70%;
+ height: 20%;
+ margin-right: 36px;
+ margin-left: 36px;
+ border-radius: 27%;
+ }
+.topbtn{
+   display:none;
+ }
+.btn3{
+  background-color: #001D6E;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.topbtn3{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  border: 3px solid none;
+}
+/*gallery*/
+#ourwork{
+  color: #001D6E;
+  margin: 0;
+  font-family: 'Sarina', cursive;
+  font-size: 20px;
+}
